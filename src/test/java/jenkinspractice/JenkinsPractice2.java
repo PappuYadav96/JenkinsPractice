@@ -7,6 +7,8 @@ public class JenkinsPractice2 {
 	public void Test2Test() {
 		
 		System.out.println("Test2 ");
+		
+		//
 	}
 
 }
