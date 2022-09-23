@@ -8,7 +8,7 @@ public class JenkinsPracticeTest {
 
 	@Test
 	public void Test1Test() {
-		System.out.println("Test 1 ");
+		System.out.println("Test 1Pass ");
 	//change done
 		String browser = System.getProperty("br");
 		String url = System.getProperty("ur");
